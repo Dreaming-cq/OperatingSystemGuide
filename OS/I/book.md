@@ -6,7 +6,7 @@
 - [清华的ucore](https://github.com/chyyuu/ucore_os_lab)                              
 ## **书籍推荐**
 
-+ **X86 Assembly Language **
++ **X86 Assembly Language**
 
   + [汇编语言程序设计](http://item.jd.com/10057711.html) 布鲁姆 著, 马朝晖 等译,机械工业出版社,2005
 
